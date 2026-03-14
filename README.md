@@ -49,11 +49,11 @@ This repository contains the complete analysis of ELFN1-AS1 in Kidney Renal Papi
    `bash
    python KIRP_ELFN1-AS1_deep_analysis.py
 
+د
 ## Citation
-
 If you use this code or findings in your research, please cite:
 
-· Younes, L. (2026). ELFN1-AS1: A Novel Prognostic Biomarker in KIRP. GitHub repository. https://github.com/Lubanah-Younes/ELFN1-AS1-KIRP
+Younes, L. (2026). ELFN1-AS1-KIRP: First release of ELFN1-AS1 KIRP analysis (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.19005670
 
 
 ## Author
